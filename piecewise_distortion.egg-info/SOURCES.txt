@@ -1,0 +1,8 @@
+setup.py
+piecewise_distortion/__init__.py
+piecewise_distortion/piecewise_distortion.py
+piecewise_distortion.egg-info/PKG-INFO
+piecewise_distortion.egg-info/SOURCES.txt
+piecewise_distortion.egg-info/dependency_links.txt
+piecewise_distortion.egg-info/requires.txt
+piecewise_distortion.egg-info/top_level.txt

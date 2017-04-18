@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: piecewise-distortion
+Version: 0.1
+Summary: A package to manage image distortion
+Home-page: https://github.com/SUKOHI
+Author: sukohi
+Author-email: sukohi.capilano@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: distort image
+Platform: UNKNOWN
